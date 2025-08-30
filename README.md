@@ -1,16 +1,30 @@
-## Hi there 👋
+# 🌑 cicteamindia.com – Dark Themed Hindi Website  
 
-<!--
-**cicteamindia/cicteamindia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 A modern **dark-themed website in Hindi** for **Data Science guidance** and **free live code testing**.  
+This project is designed to help students, learners, and professionals experiment with code directly on the website.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Features
+- 🌑 **Dark Black Theme** for modern UI  
+- 📖 **Hindi Language** based content for better reach  
+- 💻 **Live Code Testing Sandbox** (HTML, CSS, JS support)  
+- 📱 **Responsive Design** – Works on mobile, tablet, and desktop  
+- ⚡ Lightweight and fast  
+
+---
+
+## 🛠️ Technologies Used
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+
+---
+
+## 🚀 Live Demo
+👉 Visit here: [cicteamindia.com](https://cicteamindia.com) *(if connected with custom domain)*  
+👉 Or GitHub Pages link: `https://yourusername.github.io/cicteamindia/`
+
+---
+
+## 📂 Project Structure
