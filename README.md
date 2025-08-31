@@ -1,6 +1,6 @@
 # 🌑 cicteamindia.com – Dark Themed Hindi Website  
 
-🚀 A modern **dark-themed website in Hindi** for **Data Science guidance** and **free live code testing**.  
+🚀 A modern *science and technology** for **Data Science guidance** and **free live code testing**.  
 This project is designed to help students, learners, and professionals experiment with code directly on the website.  
 
 ---
